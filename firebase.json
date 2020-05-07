@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "/grocery-shopping/",
+    "public": "grocery-shopping",
     "ignore": [
       "firebase.json",
       "**/.*",
