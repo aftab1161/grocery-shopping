@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import {FirebaseModule} from './core/modules/firebase/firebase.module';
 
+
 @NgModule({
   declarations: [
     AppComponent
